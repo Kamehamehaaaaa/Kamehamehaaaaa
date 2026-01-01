@@ -2,7 +2,7 @@
 
 I’m a **Machine Learning Engineer** and **Computer Science graduate student at the University of Florida** with **4+ years of industry experience at Oracle**, building and operating large-scale, production systems.
 
-I specialize in **end-to-end AI systems**—from research and model development to deployment, optimization, and monitoring in real-world environments. My work spans **Graph Neural Networks, NLP, Vision-Language Models, LLM systems, and MLOps**, with a strong emphasis on **explainability, scalability, and performance**.
+I specialize in **end-to-end AI systems**-from research and model development to deployment, optimization, and monitoring in real-world environments. My work spans **Graph Neural Networks, NLP, Vision-Language Models, LLM systems, and MLOps**, with a strong emphasis on **explainability, scalability, and performance**.
 
 My ML work is grounded in years of experience building **low-latency, high-throughput distributed systems**, which strongly informs how I design reliable, production-ready ML pipelines today.
 
