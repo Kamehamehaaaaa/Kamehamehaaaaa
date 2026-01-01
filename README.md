@@ -27,6 +27,27 @@ Built and optimized cloud-native billing systems operating at enterprise scale.
 ### 🧠 CrimeLens - Explainable GNN for Crime Scene Analysis
 - Designed an **explainable Graph Neural Network (GraphSAGE)** system transforming unstructured text into structured crime predictions (**84% accuracy**)
 - Built a **domain-adapted NER pipeline** with spaCy and rule-based fallbacks (**92% F1-score**) for noisy text
+  
+### 🌊 iChatBio / OBIS Agent - Production LLM System
+- Architected an **agentic LLM framework** for querying **150M+ ocean species records**, integrated with iChatBio.org
+- Designed prompt engineering strategies improving domain-specific retrieval accuracy
+  
+### 🧬 Protein Stability Prediction with ML & Genetic Algorithms
+- Built a **Random Forest surrogate model** predicting protein stability changes (ΔΔG) with **R² = 0.78**
+- Engineered 50+ biochemical and structural features (DSSP, hydropathy, charge, solvent accessibility)
+- Implemented a **Genetic Algorithm** exploring **10⁶+ mutant combinations**, achieving **30% faster convergence**
+
+### 🖼 Vision-Language Comic & Manga Interpretation (ACL 2025 Submission)
+- Benchmarked **6 state-of-the-art Vision-Language Models** on page-level comic understanding
+- Designed evaluation metrics for comprehension, hallucination, and narrative coherence
+
+### 🏠 UF-NestMate - Full-Stack Recommendation System
+- Built NLP pipelines for housing review summarization
+- Implemented hybrid recommendation systems and embedding-based similarity scoring
+<!--
+### 🧠 CrimeLens - Explainable GNN for Crime Scene Analysis
+- Designed an **explainable Graph Neural Network (GraphSAGE)** system transforming unstructured text into structured crime predictions (**84% accuracy**)
+- Built a **domain-adapted NER pipeline** with spaCy and rule-based fallbacks (**92% F1-score**) for noisy text
 - Engineered heterogeneous graphs modeling entities and relationships for downstream classification
 - Developed **dual-channel explainability** (graph-level attribution + gradient-based text saliency)
 - Deployed a real-time **Streamlit application** with interactive graph visualization and **<100ms inference latency**
@@ -81,7 +102,7 @@ Built and optimized cloud-native billing systems operating at enterprise scale.
 - Deployed a full-stack system serving **500+ users**
 
 **Tech:** Python, HuggingFace, Go, React, PostgreSQL
-
+-->
 ---
 
 ## 🛠 Tech Stack
