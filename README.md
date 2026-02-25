@@ -18,7 +18,7 @@ Built and optimized cloud-native billing systems operating at enterprise scale.
 - Led **zero-downtime migration** of core subscription and rating components from **BRM 12 → BRM 15**
 - Implemented **OAuth2 authentication and RBAC**, securing enterprise billing infrastructure
 
-**Tech:** C, C++, PL/SQL, Kafka, Spark, Kubernetes, OCI
+**Tech:** C, C++, Java, Python, PL/SQL, Kafka, Spark, Kubernetes, OCI
 
 ---
 
